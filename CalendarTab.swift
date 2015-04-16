@@ -2,7 +2,7 @@
 //  CalendarTab.swift
 //  HearHereApp
 //
-//  Created by Luyuan Xing on 3/4/15.
+//  Created by Prima Prasertrat on 3/4/15.
 //  Copyright (c) 2015 LXing. All rights reserved.
 //
 
